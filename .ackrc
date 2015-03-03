@@ -1,0 +1,7 @@
+--context=2
+
+--type-set
+coffee=.coffee
+
+--type-set
+sass=.scss,.sass
